@@ -106,7 +106,7 @@ filename_label.grid(row=2, column=0)
 place_maker_label = Label(text="")
 place_maker_label.grid(row=3, column=0, columnspan=2)
 
-file_label = Label(text="Import the JSON files here hello there im Vincent")
+file_label = Label(text="Import the JSON files here")
 file_label.grid(row=4,column=0)
 
 #Eingabe
